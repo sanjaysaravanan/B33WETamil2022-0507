@@ -1,0 +1,44 @@
+Recap: Last Week Topics
+
+  Promise -->
+
+
+Topics:
+  Promise.Chaining
+  Promise.all ---> 
+
+
+  API ---> Application Program Interface
+  JSON - Javascript Object Notation
+
+
+  fetch API ---> Fetch is used to read data / or do an http operation
+    which return a promise with response containing the readable stream
+    Handle by .then & .catch
+
+  intro to public APIs ---> Choose public APIs based on the API_key, Https, Cors
+
+  https://api.openweathermap.org/data/2.5/weather?q=Chennai&appid=991f626650507e6605c2ca33f8edc191
+
+
+  async/await --> Wraps an asynchronous operation so that it wait using await for th ecompletion of the async operation whose value would be used next steps
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  https://raw.githubusercontent.com/Rajavasanthan/jsondata/master/pagenation.json
